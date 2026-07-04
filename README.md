@@ -1,6 +1,6 @@
-# 🏠 House Price Prediction using Machine Learnin
+# 🏠 House Price Prediction 
 
-A Machine Learning web application that predicts house prices based on the area (in square meters).
+A Machine Learning project that predicts house prices based on the area (sq ft) using Linear regression and localy hosted using Streamlit.
 
 ---
 
@@ -57,7 +57,7 @@ Linear Regression
 Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/House-Price-Prediction.git
+git clone https://github.com/Aryan8953/House-price-prediction-project
 ```
 
 Move inside the folder
